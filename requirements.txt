@@ -1,0 +1,9 @@
+tensorflow==1.15
+keras==2.1.6
+gym
+stable-baselines
+pandas
+numpy
+yfinance
+mpl_finance
+tqdm
